@@ -213,3 +213,12 @@ const u16 gMetatileAttributes_sewers[] = INCBIN_U16("data/tilesets/secondary/sew
 
 const u16 gMetatiles_main[] = INCBIN_U16("data/tilesets/primary/main/metatiles.bin");
 const u16 gMetatileAttributes_main[] = INCBIN_U16("data/tilesets/primary/main/metatile_attributes.bin");
+
+const u16 gMetatiles_mainlife[] = INCBIN_U16("data/tilesets/primary/mainlife/metatiles.bin");
+const u16 gMetatileAttributes_mainlife[] = INCBIN_U16("data/tilesets/primary/mainlife/metatile_attributes.bin");
+
+const u16 gMetatiles_startertown[] = INCBIN_U16("data/tilesets/secondary/startertown/metatiles.bin");
+const u16 gMetatileAttributes_startertown[] = INCBIN_U16("data/tilesets/secondary/startertown/metatile_attributes.bin");
+
+const u16 gMetatiles_river[] = INCBIN_U16("data/tilesets/secondary/river/metatiles.bin");
+const u16 gMetatileAttributes_river[] = INCBIN_U16("data/tilesets/secondary/river/metatile_attributes.bin");

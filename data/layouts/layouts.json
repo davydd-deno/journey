@@ -97,7 +97,7 @@
       "width": 30,
       "height": 50,
       "primary_tileset": "gTileset_main",
-      "secondary_tileset": "gTileset_sewers",
+      "secondary_tileset": "gTileset_startertown",
       "border_filepath": "data/layouts/LittlerootTown/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown/map.bin"
     },
