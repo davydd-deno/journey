@@ -1076,3 +1076,9 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/startertown/scripts.inc"
+
+	.include "data/maps/distortionworld/scripts.inc"
+
+	.include "data/maps/route1/scripts.inc"
+
+	.include "data/maps/junapusforest/scripts.inc"

@@ -1729,3 +1729,41 @@ const u16 gTilesetPalettes_river[][16] =
 };
 
 const u32 gTilesetTiles_river[] = INCBIN_U32("data/tilesets/secondary/river/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_main2[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/main_2/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_main2[] = INCBIN_U32("data/tilesets/primary/main_2/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_distortionworld[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/distortionworld/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_distortionworld[] = INCBIN_U32("data/tilesets/secondary/distortionworld/tiles.4bpp.lz");

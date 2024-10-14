@@ -94,9 +94,9 @@
     {
       "id": "LAYOUT_LITTLEROOT_TOWN",
       "name": "LittlerootTown_Layout",
-      "width": 30,
+      "width": 40,
       "height": 50,
-      "primary_tileset": "gTileset_main",
+      "primary_tileset": "gTileset_main2",
       "secondary_tileset": "gTileset_startertown",
       "border_filepath": "data/layouts/LittlerootTown/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown/map.bin"
@@ -4416,10 +4416,40 @@
       "name": "startertown_Layout",
       "width": 30,
       "height": 50,
-      "primary_tileset": "gTileset_main",
-      "secondary_tileset": "gTileset_Petalburg",
+      "primary_tileset": "gTileset_main2",
+      "secondary_tileset": "gTileset_startertown",
       "border_filepath": "data/layouts/startertown/border.bin",
       "blockdata_filepath": "data/layouts/startertown/map.bin"
+    },
+    {
+      "id": "LAYOUT_DISTORTIONWORLD",
+      "name": "distortionworld_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_main2",
+      "secondary_tileset": "gTileset_distortionworld",
+      "border_filepath": "data/layouts/distortionworld/border.bin",
+      "blockdata_filepath": "data/layouts/distortionworld/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE1",
+      "name": "route1_Layout",
+      "width": 20,
+      "height": 40,
+      "primary_tileset": "gTileset_main2",
+      "secondary_tileset": "gTileset_river",
+      "border_filepath": "data/layouts/route1/border.bin",
+      "blockdata_filepath": "data/layouts/route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_JUNAPUSFOREST",
+      "name": "junapusforest_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_main2",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/junapusforest/border.bin",
+      "blockdata_filepath": "data/layouts/junapusforest/map.bin"
     }
   ]
 }
