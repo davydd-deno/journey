@@ -902,3 +902,25 @@ const struct Tileset gTileset_distortionworld =
     .metatileAttributes = gMetatileAttributes_distortionworld,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_village =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_village,
+    .palettes = gTilesetPalettes_village,
+    .metatiles = gMetatiles_village,
+    .metatileAttributes = gMetatileAttributes_village,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_gate =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_gate,
+    .palettes = gTilesetPalettes_gate,
+    .metatiles = gMetatiles_gate,
+    .metatileAttributes = gMetatileAttributes_gate,
+    .callback = NULL,
+};

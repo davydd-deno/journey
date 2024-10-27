@@ -1082,3 +1082,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/route1/scripts.inc"
 
 	.include "data/maps/junapusforest/scripts.inc"
+
+	.include "data/maps/dittovillage/scripts.inc"
+
+	.include "data/maps/Gate/scripts.inc"

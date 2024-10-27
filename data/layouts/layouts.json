@@ -4450,6 +4450,26 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/junapusforest/border.bin",
       "blockdata_filepath": "data/layouts/junapusforest/map.bin"
+    },
+    {
+      "id": "LAYOUT_DITTOVILLAGE",
+      "name": "dittovillage_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_main2",
+      "secondary_tileset": "gTileset_village",
+      "border_filepath": "data/layouts/dittovillage/border.bin",
+      "blockdata_filepath": "data/layouts/dittovillage/map.bin"
+    },
+    {
+      "id": "LAYOUT_GATE",
+      "name": "Gate_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_gate",
+      "border_filepath": "data/layouts/Gate/border.bin",
+      "blockdata_filepath": "data/layouts/Gate/map.bin"
     }
   ]
 }
